@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    background-color: aliceblue;
+    color: blue;
+}
+
+.contenu{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+li:hover {
+    color:orangered;
+}
